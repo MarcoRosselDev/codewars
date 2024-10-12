@@ -19,3 +19,6 @@ console.log(oddOne([2, 16, 98, 10, 13, 78]));
 console.log(oddOne([2, 4, 6, 8]));
 
 //an([1, 12, 3]);
+// no se consideraron
+// el conjunto de numeros negativos
+// corregir
