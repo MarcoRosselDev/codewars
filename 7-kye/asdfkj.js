@@ -22,3 +22,4 @@ console.log(oddOne([2, 4, 6, 8]));
 // no se consideraron
 // el conjunto de numeros negativos
 // corregir
+// GARYSIMON1
